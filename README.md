@@ -35,7 +35,7 @@ This repository contains code and resources for an analysis project focused on d
 
 ## Credits
 
-This project was created as part of Foundation of Data Science subject. The dataset used in this project is sourced from [Reference Source of the Dataset]. The analysis and code were written as a group effort of 4 members.
+This project was created as part of Foundation of Data Science subject. The analysis and code were written as a group effort of 4 members.
 
 ## Disclaimer
 
